@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sumitprajapati1
-- 👀 I’m interested in Coding
+- 👀  I’m interested in Coding and building interactive web applications.
 - 🌱 I’m currently learning Web Development and Data Structures and Algorithm 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on open-source web development projects.
+- 📫 How to reach me: prajapatisumit009@gmail.com or www.linkedin.com/in/sumit-prajapati-93881127b
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy competitive coding on CodeChef! (https://www.codechef.com/users/sumit_ljiet)
 
 <!---
 sumitprajapati1/sumitprajapati1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
