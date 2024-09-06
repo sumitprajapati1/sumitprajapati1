@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sumitprajapati1
+- 👋 Hi, I’m sumitprajapati1
 - 👀  I’m interested in Coding and building interactive web applications.
-- 🌱 I’m currently learning Full Stack Development , Data Structures and Algorithm 
+- 🌱 I’m currently learning Full Stack Development , Data Structures and Algorithms . 
 - 💞️ I’m looking to collaborate on open-source web development projects.
 - 📫 How to reach me: prajapatisumit009@gmail.com or www.linkedin.com/in/sumit-prajapati-93881127b
 - 😄 Pronouns: He/Him
