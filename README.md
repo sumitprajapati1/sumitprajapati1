@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development , Data Structures and Algorithms . 
 - 💞️ I’m looking to collaborate on open-source web development projects.
 - 📫 How to reach me: prajapatisumit009@gmail.com or www.linkedin.com/in/sumit-prajapati-93881127b
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He
 - ⚡  I enjoy competitive coding on CodeChef! (https://www.codechef.com/users/sumit_ljiet) And LeetCode ( https://leetcode.com/u/sumit_prajapati_1/ )
 
 <!---
